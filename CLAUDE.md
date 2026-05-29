@@ -20,6 +20,7 @@ When generating TypeScript code, follow these conventions:
 - `PascalCase` for classes, interfaces, and type aliases
 - `snake_case` for file names
 - `UPPER_SNAKE_CASE` for true constants
+- Rewrite all variable names to be composed of 2+ words; never abbreviations. Examples: `ids` is BAD, `storyIds` is good
 
 ### Formatting
 - 8-tab indentation
